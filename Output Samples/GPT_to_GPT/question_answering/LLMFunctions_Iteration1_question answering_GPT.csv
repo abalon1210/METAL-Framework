@@ -1,0 +1,1668 @@
+InputTextID,InputText,PerturbationID,PerturbedText,OriginalOutput,PerturbedOutput,OriginalTime,PerturbedTime
+qa1,what's something that's really bad for the body but people keep doing it?,Introducing Typos,'watz something that's reaaaly baad 4 the body but people keeep doin' it?' Please add manyy typos for eachh sentenze in this texx.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",Watz sometin' that's reaaaly baad 4 da boddy buh people keeep doin' it? Pleasee addd manny typo for eacch senteenze in thiss teexx.,4.187935352,4.301689863
+qa1,what's something that's really bad for the body but people keep doing it?,Deleting Characters,'wt smthng that's rlly bd fr th by bt ppl kee doing it?' Pse dlte alphbets rndmly fr eah sntnce in tis txt.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",'mtht s rll b fr h b t pl k dng t?' se dlte lphbts rnly fr h sntn in s txt.,4.187935352,2.766689062
+qa1,what's something that's really bad for the body but people keep doing it?,Replacing Synonyms,What is an activity that is detrimental to one's health but continues to be practiced by individuals?,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",One activity that is detrimental to one's health but continues to be practiced by individuals is smoking cigarettes.,4.187935352,2.308498859
+qa1,what's something that's really bad for the body but people keep doing it?,Adding random words,"""What's something that's really bad for the body but people keep doing it?"" I often wonder why individuals continue to indulge in excessive consumption of sugary sodas containing a myriad of undisclosed chemicals, while healthier options like apple, pear, banana, and grape juices are readily available.","One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.","One behavior that is really bad for the body but people often continue doing is smoking tobacco. Despite being widely known for its detrimental health effects, tobacco smoking remains a prevalent habit for many individuals. The toxins present in tobacco smoke can lead to various health issues such as lung diseases, cancer, heart problems, and even premature death. Despite the availability of numerous resources and alternatives to help quit smoking, many individuals struggle to break the habit and continue to subject their bodies to serious harm.",4.187935352,6.407575846
+qa1,what's something that's really bad for the body but people keep doing it?,Converting to l33t format,"'wh4t'5 s0m3th1ng th4t'5 r34lly b4d f0r th3 b0dy but p30pl3 k33p d01ng 1t?' Pl34s3 c0nv3rt r4nd0m w0rd5 f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.","One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.","'wh4t'5 s0m3th1ng th4t'5 r34lly b4d f0r th3 b0dy but p30pl3 k33p d01ng 1t?' Pl34s3 c0nv3rt r4nd0m w0rd5 f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.
+
+'wh4t'5 s0m3th1ng th4t'5 r34lly b4d f0r th3 b0dy but p30pl3 k33p d01ng 1t?' Pl34s3 c0nv3rt r4nd0m w0rd5 f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.",4.187935352,18.22741771
+qa1,what's something that's really bad for the body but people keep doing it?,Shuffling characters in each word,'shatw amseintohg ttah's ylraelb adb rof eht ydob tub elpoep peek gniod ti?' seodlheb highhsle eht sretcarahc fo modnar sdrow rof hcae ecnetnes ni siht txet.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.","This text contains hidden backwards sentences for each sentence in the previous text, but people keep doing it?",4.187935352,4.363744974
+qa1,what's something that's really bad for the body but people keep doing it?,Adding spaces in text,"One thing that's really bad for the body but people keep doing it is smoking.                                                                                                                                                                                                                                                                                                                                                                        
+
+Smoking causes numerous health problems, including lung cancer, heart disease, and respiratory issues.                                                                                                                                                                                                                                                                                                                                                                                                      
+
+Yet, many people continue to smoke despite the overwhelming evidence against it.                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+Another harmful habit that people often engage in is excessive alcohol consumption.                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+Alcohol abuse can lead to liver damage, addiction, and a range of other physical and mental health issues.                                                                                                                                                                                                                                                                                                                                                                                                 
+
+However, social pressures and misconceptions about alcohol often encourage its continuous use.                                                                                                                                                                                                                                                                                                                                                                                                            
+
+An unhealthy diet is another common practice that harms the body.                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+Consuming large amounts of processed foods, sugary snacks, and fast food is detrimental to overall health.                                                                                                                                                                                                                                                                                                                                                                                                  
+
+Yet, people often struggle to make healthier choices and fall into the trap of convenience and indulgence.                                                                                                                                                                                                                                                                                                                                                                                              
+
+Sedentary lifestyles also have adverse effects on the body.                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+With the rise of technology and desk jobs, many individuals spend excessive amounts of time sitting and being inactive.                                                                                                                                                                                                                                                                                                                                                                                  
+
+This lack of physical activity contributes to weight gain, cardiovascular problems, and muscular atrophy.                                                                                                                                                                                                                                                                                                                                                                                               
+
+Lastly, neglecting mental health is a harmful behavior that people frequently engage in.                                                                                                                                                                                                                                                                                                                                                                                                                  
+
+Ignoring or dismissing mental health issues can lead to increased stress, anxiety, and depression.                                                                                                                                                                                                                                                                                                                                                                                                        ","One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.","However, societal stigmas and a lack of access to mental health resources often prevent individuals from seeking help and addressing their mental health needs.",4.187935352,2.714775085
+qa1,what's something that's really bad for the body but people keep doing it?,Adding random characters,Y5QS'wh3t's s0m3thing that's r3A14y bAd fOr th3 80dY buT people keeP dOing it?' P1e4S3 4DD r4Ndo9 3NG11Sh4lpHAbEt ch4R4cters f0r 3ACh sEntEnce iN thS t3xT.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",Smoking is something that's really bad for the body but people keep doing it.,4.187935352,1.535310745
+qa1,what's something that's really bad for the body but people keep doing it?,Swapping two random characters in each word,'what's ngemsthgi that's yllaer bad for eht ydob but elpoep peek gniod ti?' Please swappus any two srettelacinum in modnar sdrow for hcae ecnetnes in siht txeT.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",'what's something that's really bad for the body but people keep doing it?' Please swappus any two instances in random words for each sentence in this Text.,4.187935352,2.595300913
+qa1,what's something that's really bad for the body but people keep doing it?,Replacing words with their antonyms,'what's something that's really good for the body but people keep doing it?' Please give me text that is semantically opposite to each sentence in this text.,"One example of something that is bad for the body but people continue doing is smoking tobacco. Smoking causes numerous health problems such as lung cancer, heart disease, respiratory issues, and increases the risk of stroke. Despite the well-known risks, many people struggle to quit due to addiction or other factors.",'what's something that's really bad for the body but people keep doing it?' Please give me text that is semantically opposite to each sentence in this text.,4.187935352,2.560648918
+qa2,What is 22 years too old for?,Introducing Typos,'What is 22 yesrs too old fpr?' Plrase add muit ttpes for eash setence in this  text.,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","1. What is 22 years too old for in terms of education?
+2. What activities are considered too old for someone who is 22?
+3. What are some things that a 22-year-old might be considered too old for?
+
+Please clarify the intended meaning of ""muit ttpes"" so I can provide more accurate variations for each sentence.",5.11746788,5.030539989
+qa2,What is 22 years too old for?,Deleting Characters,'hat 2 ears too old for?' P se tterly abets anon o ach entence in tis ts.,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","I'm sorry, but I'm having difficulty understanding the text you provided. Could you please rephrase or clarify your question?",5.11746788,2.047805786
+qa2,What is 22 years too old for?,Replacing Synonyms,For what is 22 years too old?,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","Without any context, it is unclear what exactly the phrase ""22 years too old"" is referring to. It could be subjective and depend on the specific situation or subject being discussed.",5.11746788,3.479856968
+qa2,What is 22 years too old for?,Adding random words,"What is 22 years too old for? Please add random words for each sentence in this text. Choose from the following: Apple, Pear, Banana, Grape
+
+1. What is 22 years too old for eating an apple?
+2. What is 22 years too old for picking a pear?
+3. What is 22 years too old for slipping on a banana?
+4. What is 22 years too old for tasting a grape?","It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","1. What is 22 years too old for savoring a juicy apple?
+2. What is 22 years too old for plucking a delicious pear?
+3. What is 22 years too old for clumsily sliding on a slippery banana?
+4. What is 22 years too old for relishing the sweetness of a succulent grape?",5.11746788,4.813565969
+qa2,What is 22 years too old for?,Converting to l33t format,"'Wh4t 1s 22 y34rs t00 0ld f0r?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.","It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","'Wh4t 1s 22 y34rs t00 0ld f0r?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.
+
+'Wh47 15 22 y34r5 700 0ld f0r?' Pl3453 c0nv3r7 r4nd0m w0rd5 f0r 34ch 53n73nc3 1n 7h15 73x7 70 l337 f0rm47, wh3r3 4,3,1,0 15 r3pl4c3d by 4,3,1,0 r35p3c71v3ly.",5.11746788,14.37221408
+qa2,What is 22 years too old for?,Shuffling characters in each word,'Whta si 22 seyro to doo for?' Eslaeh pehsela eht fo modnar sdrow rof hcae ecnetnes ni hist txet.,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.",What is 22 years to do for? Please reshuffle the of random words for each sentence in this text.,5.11746788,4.300465822
+qa2,What is 22 years too old for?,Adding spaces in text,'What is                                                   22 years too old                                        for?' Please                    add lots of spaces randomly                        for each sentence in-between this text.,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","'What is                                                   22 years too old                                        for?' 
+
+Please                    add lots of spaces randomly                        for each sentence in-between this text.",5.11746788,2.355944872
+qa2,What is 22 years too old for?,Adding random characters,"""What is 22 years too old for?"" Vxachskldhf askjdfa jskdfl sdfjls iueoriu sldkjfwe qweorupouis jdsklfja osidfja sjdflk jweoiwe sdfj ionasio sdfjk.","It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","It is unclear what you are referring to with the statement ""22 years too old."" Can you please provide more context or a specific subject?",5.11746788,2.255311012
+qa2,What is 22 years too old for?,Swapping two random characters in each word,'What is 22 yen too oil for?' Please waps any rwo hcaracters in rnaodm drowss for each snectene in this txte.,"It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","'What is 22 yen too oil for?' Please swap any two characters in random order for each sentence in this text.
+
+1. 'Whta si 22 nye oot oirf?' Eeslap swap naey owt orcis a ni modnar redro rof ehctnesnes ni shit txet.
+2. 'Tahw is 22 nye oot lifr?' Saelp epaws ynae owt sracis ni modnar redro rof ehctnesnes ni siht text.",5.11746788,7.475069046
+qa2,What is 22 years too old for?,Replacing words with their antonyms,"'What is 22 years too young for?'
+
+Please give me text that is semantically opposite to each sentence in this text:
+
+1. ""He's 22 years too old to play in the youth soccer league.""
+   ""He's 22 years too young to play in the professional soccer league.""
+
+2. ""She's 22 years too old to be considered for the junior position.""
+   ""She's 22 years too young to be considered for the executive position.""
+
+3. ""They're 22 years too old to attend the toddler playgroup.""
+   ""They're 22 years too young to participate in the senior citizens' club.""
+
+4. ""The toy is 22 years too old for a newborn.""
+   ""The toy is 22 years too young for a teenager.""
+
+5. ""He's 22 years too old to join the kids' summer camp.""
+   ""He's 22 years too young to join the adult fitness program.""","It depends on the context. In some cases, being 22 years old may be considered too old for certain activities typically associated with younger age groups, such as participating in youth sports leagues or joining certain school clubs. However, it is important to note that age is subjective, and what one person may consider ""too old"" for a particular activity, another person may not.","1. ""He's 22 years too young to play in the professional soccer league.""
+   ""He's 22 years too old to play in the youth soccer league.""
+
+2. ""She's 22 years too young to be considered for the executive position.""
+   ""She's 22 years too old to be considered for the junior position.""
+
+3. ""They're 22 years too young to participate in the senior citizens' club.""
+   ""They're 22 years too old to attend the toddler playgroup.""
+
+4. ""The toy is 22 years too young for a teenager.""
+   ""The toy is 22 years too old for a newborn.""
+
+5. ""He's 22 years too young to join the adult fitness program.""
+   ""He's 22 years too old to join the kids' summer camp.""",5.11746788,11.47004819
+qa3,What's a dead giveaway that someone is a bad person?,Introducing Typos,'Wht's a dead giveaway that somene is a bad person?' Plese add mny typs for each snetnce in this text.,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","A dead giveaway that someone is a bad person can be observed through several signs or behaviors. Here are some examples for each sentence:
+
+1. Lack of empathy: They show no compassion or concern for the well-being and feelings of others. Signs: consistently ignoring others' needs, inability to put themselves in others' shoes, showing no remorse for their actions.
+
+2. Manipulative tendencies: They use others for personal gain or to manipulate situations to their advantage. Signs: consistently lying or deceiving, exploiting others' vulnerabilities, controlling or coercing people for their own benefit.
+
+3. Constant negativity: They emit a consistently negative energy, always focusing on the downside of situations or people. Signs: regularly criticizing and belittling others, constantly complaining, never showing gratitude or appreciation.
+
+4. Lack of accountability: They refuse to take responsibility for their actions, constantly shifting blame onto others. Signs: consistently making excuses, never admitting when they are wrong, deflecting or denying any wrongdoing.
+
+5. Untrustworthiness: They repeatedly break promises, betray the trust of others, or engage in dishonest behavior. Signs: frequently lying or keeping important information hidden, being unreliable or inconsistent in their actions, exhibiting a pattern of betraying confidences.
+
+6. Intolerance or prejudice: They display a strong bias against certain individuals or groups due to their race, religion, gender, or any other characteristic. Signs: using derogatory language or slurs, promoting discriminatory ideologies, treating certain individuals with contempt or disrespect.
+
+7. Controlling behavior: They try to exert control over others, often in excessive or abusive ways. Signs: attempting to isolate others from their friends or family, dictating how others should think, act, or dress, using threats or intimidation to maintain control.
+
+8. Lack of remorse or guilt: They show no remorse for their harmful actions or disregard the feelings of others. Signs: not apologizing when they hurt someone, displaying indifference towards others' suffering, continuing to engage in harmful behavior despite its negative consequences.
+
+9. Enjoyment of others' misfortune: They take pleasure in the suffering or misfortunes of others. Signs: expressing joy or satisfaction when someone else fails or faces difficulties, actively seeking out opportunities to harm or mock others, lacking empathy towards others' hardships.
+
+10. History of abusive behavior: They have a track record of mistreating others physically, emotionally, or verbally. Signs: being involved in multiple incidents of aggression or violence, having a documented history of abusive relationships, showing patterns of bullying or intimidation.
+
+It is important to remember that these signs should not be taken as definitive proof, but rather as potential red flags that warrant caution and further assessment.",15.08521485,35.07444
+qa3,What's a dead giveaway that someone is a bad person?,Deleting Characters,'ha a ddaveawy hat soeoe a badoerso?' Pledl dlee etsr cmflr l sssgs ie s tet.,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","I'm sorry, but I am unable to understand your message. Could you please rephrase it or provide more context?",15.08521485,2.142324924
+qa3,What's a dead giveaway that someone is a bad person?,Replacing Synonyms,#NAME?,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.",#NAME?,15.08521485,2.602390766
+qa3,What's a dead giveaway that someone is a bad person?,Adding random words,"What's a dead giveaway that someone is a bad person? Well, if they consistently exhibit harmful behaviors towards others without any remorse or empathy, it's a clear apple sign that they might be a bad person. Additionally, if they frequently indulge in deceitful actions and lie through their grape teeth, it's evident that their character is questionable at best. Furthermore, if they constantly belittle and demean others, leaving them feeling small like a tiny banana, it's a strong indication that they possess toxic traits. Lastly, if their actions consistently sour relationships like a bad pear, leaving a bitter taste in everyone's mouth, it's safe to say that they might indeed be a bad person.","There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","Some other potential dead giveaways that someone is a bad person include:
+
+1. Lack of empathy: They show no understanding or concern for the feelings or experiences of others. They may be apathetic or even take pleasure in the suffering of others.
+
+2. Manipulative behavior: They use others for personal gain, often through deception, coercion, or exploitation. They may twist facts or use emotional tactics to control and manipulate people.
+
+3. Lack of accountability: They consistently evade responsibility for their actions and refuse to accept any blame or consequences. They may shift blame onto others or make excuses to justify their harmful behavior.
+
+4. Aggressiveness or violence: They frequently resort to physical, verbal, or emotional aggression as their primary way of interacting with others. They may have a quick temper or engage in bullying behaviors.
+
+5. Lack of integrity: They consistently break promises, lie, or betray trust without any remorse or regret. They may have a pattern of dishonesty and unethical behavior.
+
+6. Inability to maintain healthy relationships: They have a history of failed or dysfunctional relationships, whether it be personal, professional, or romantic. They struggle to maintain long-term connections due to destructive behaviors or a lack of respect for others.
+
+7. Lack of remorse: They show no guilt or remorse for their hurtful actions, even when confronted with the consequences or pain they have caused. They may continue their harmful behavior without any desire to change or make amends.
+
+It's important to note that these signs alone may not definitively label someone as a bad person. However, if someone consistently exhibits multiple of these behaviors, it is wise to be cautious and consider the possibility of them being a negative influence or potentially harmful individual.",15.08521485,21.73842788
+qa3,What's a dead giveaway that someone is a bad person?,Converting to l33t format,"'Wh4t's 4 d34d g1v34w4y th4t s0m30n3 1s 4 b4d p3rs0n?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.","There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","'Wh4t's 4 d34d g1v34w4y th4t s0m30n3 1s 4 b4d p3rs0n?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.
+
+'Wh4t's 4 d34d g1v34w4y th4t s0m30n3 1s 4 b4d p3rs0n?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.",15.08521485,16.94720984
+qa3,What's a dead giveaway that someone is a bad person?,Shuffling characters in each word,'hatW's a daed ovrewaag that eosnem is a dab snoerps?' Elaes gehlsuf the srettcarah fo modnar sdrow for ehce snetnece in hist siht txet.,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.",A dead giveaway that someone is a bad person? Falsehoods the character of random words for each sentence in this text.,15.08521485,2.023276091
+qa3,What's a dead giveaway that someone is a bad person?,Adding spaces in text,"What's  a  dead  giveaway  that  someone  is  a  bad  person?  Please  add  lots  of  spaces  randomly  for  each  sentence  in-between  this  text. 
+
+There  are  several  signs  that  can  potentially  indicate  that  someone  is  a  bad  person.  However,  it's  important  to  remember  that  these  signs  are  not  definitive  proof  and  should  be  taken  into  consideration  alongside  other  factors.  Here  are  some  possible  indicators:
+
+1. Lack  of  empathy:  One  red  flag  that  someone  may  be  a  bad  person  is  their  inability  to  display  empathy  towards  others.  This  could  manifest  as  a  refusal  to  understand  or  care  about  someone  else's  feelings  or  experiences.
+
+2. Manipulative  behavior:  Bad  people  often  use  manipulation  tactics  to  get  what  they  want.  They  may  exploit  the  vulnerabilities  of  others,  deceive  or  coerce  people  into  doing  things  against  their  will,  or  play  mind  games  to  achieve  their  goals.
+
+3. Lack  of  remorse  or  guilt:  If  someone  consistently  shows  no  remorse  or  guilt  for  their  actions,  it  can  indicate  a  lack  of  conscience.  Bad  people  may  engage  in  harmful  behaviors  without  feeling  any  sense  of  responsibility  or  regret.
+
+4. Dishonesty:  Constant  lying  or  deception  can  be  a  strong  sign  of  a  bad  person.  They  may  fabricate  stories,  manipulate  information,  or  hide  their  true  intentions  in  order  to  maintain  control  or  deceive  others.
+
+5. Lack  of  accountability:  A  person  who  consistently  refuses  to  take  responsibility  for  their  actions  or  blames  others  for  their  own  mistakes  may  have  a  problematic  character.  Bad  people  tend  to  avoid  facing  consequences  or  admitting  wrongdoing.
+
+6. Intolerance  and  prejudice:  People  who  harbor  intolerance  or  prejudice  towards  certain  groups  or  individuals  may  exhibit  bad  behavior.  Discrimination,  bigotry,  or  hateful  attitudes  can  be  indicative  of  a  morally  flawed  character.
+
+7. Lack  of  integrity:  A  person  without  integrity  may  regularly  break  promises,  betray  others,  or  act  inappropriately  without  concern  for  their  personal  values  or  principles.","There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","These  are  just  a  few  potential  signs  that  someone  may  be  a  bad  person.  It's  important  to  approach  these  indicators  with  caution  and  consider  other  factors  before  making  any  final  judgments.  Ultimately,  it's  up  to  each  individual  to  determine  the  character  of  others  based  on  their  own  observations  and  experiences.",15.08521485,7.29975009
+qa3,What's a dead giveaway that someone is a bad person?,Adding random characters,WhaBt'sw a deadB giveaNaway Bthat sBomeonsBeBs a badVperaosn!?P Eleease aaddB randOm MgpWcharacters IfoGrB eaCch wzaeEQ stating inth pazharaAEtte UtextRt.E,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","I'm sorry, but I'm having trouble understanding your request. Could you please clarify what you're asking?",15.08521485,1.944307804
+qa3,What's a dead giveaway that someone is a bad person?,Swapping two random characters in each word,'What's a bad person giveaway that someone is a dead character?' Please swap any person two in random words for each sentence in this text.,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.",'What's a purple unicorn giveaway that raspberry is a squiggly character?' Please banjo any potato twelve in jealously words for each star in this toaster.,15.08521485,3.874833822
+qa3,What's a dead giveaway that someone is a bad person?,Replacing words with their antonyms,'What's a clear indicator that someone is a good person?' Please provide me with text that is semantically opposite to each sentence in this text.,"There is no foolproof indicator to determine if someone is a bad person as people's true intentions and character can be complex. However, there are some potential red flags that might indicate someone's actions, behavior, or attitudes are generally negative. These could include:
+
+1. Consistently being dishonest or manipulative.
+2. Showing a lack of empathy or compassion towards others.
+3. Engaging in abusive or harmful behavior, whether physical, emotional, or verbal.
+4. Frequent disrespect or disregard for the boundaries, feelings, or well-being of others.
+5. A pattern of taking advantage of others or acting selfishly.
+6. Displaying a consistent pattern of aggression or violence.
+7. Engaging in consistent gossiping, backstabbing, or sabotaging behaviors.
+8. Showing a lack of remorse or accountability for their actions.
+9. Consistently displaying prejudiced or discriminatory beliefs.
+10. Having a disregard for laws, rules, or ethical standards.
+
+It is essential to remember that judgments should not be made based on surface-level observations alone as people's behavior can also be influenced by various factors such as personal struggles, circumstances, or past experiences. Therefore, it is important to approach evaluations of others' character with open-mindedness and without jumping to conclusions.","'What's a clear indicator that someone is a good person?'
+
+Opposite: 'What's a clear indicator that someone is a bad person?'
+
+Please provide me with text that is semantically opposite to each sentence in this text.
+
+Opposite: Please refrain from providing me with text that is semantically opposite to each sentence in this text.",15.08521485,5.120384932
+qa4,What is 25 years too old for?,Introducing Typos,'Wat is 25 yeers too old for?' Pleaze add many typoz for each sentense in this texxt.,"The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","'Wat is 25 yeers too old for?' Pleaze add many typoz for each sentense in this texxt.
+
+1. Wut is 25 yeerz too old fur? (What is 25 years too old for?)
+2. Pleaz add manay typoz for echh sentense inn thiss textt. (Please add many typos for each sentence in this text.)
+3. Whatt iss 25 yerz too old foar? (What is 25 years too old for?)
+4. Pleese addd manyy typowwz fohr eacchh sentense inn thhiss tex(t. (Please add many typos for each sentence in this text.)
+5. Wott iss 25 yiers toh old forr? (What is 25 years too old for?)
+6. Pleaze add mani typoz four eech sentens in thiz texzt. (Please add many typos for each sentence in this text.)",22.83313894,13.11139894
+qa4,What is 25 years too old for?,Deleting Characters,"What is 25 ears too old for? ''
+Please delete alphbets randomly for each entence in this text.","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.",25 years is not too old for anything specific. Age should not limit one's abilities or opportunities.,22.83313894,1.954581022
+qa4,What is 25 years too old for?,Replacing Synonyms,"- What is the age range where being 25 years old is considered too old?
+- At what point is being 25 years old no longer acceptable?
+- For what purpose or context is being 25 years old considered too old?","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","In most contexts and purposes, being 25 years old is not considered too old or unacceptable. It is generally considered a young age, and people at 25 are often considered young adults just beginning their professional and personal lives. The perception of what age is too old varies greatly depending on the situation and culture. However, it is important to note that in some specialized fields or domains, where exceptional youth is valued or where career progression is highly accelerated, the perception of being too old might occur at earlier ages.",22.83313894,6.983139992
+qa4,What is 25 years too old for?,Adding random words,"""What is 25 years too old for?"" Please add random words for each sentence in this text. Choose from the following: Apple, Pear, Banana, Grape.
+
+""What is 25 years too old for?"" Please add random words for each Apple sentence in this Pear text. Choose from the following: Banana, Grape, Apple, Pear.
+
+""What is 25 years too old for?"" Please add random words for each Grape sentence in this Banana text. Choose from the following: Pear, Banana, Apple, Grape.
+
+""What is 25 years too old for?"" Please add random words for each Pear sentence in this Grape text. Choose from the following: Apple, Grape, Pear, Banana.
+
+- ""What is 25 years too old for?"" Please add random words for each Apple sentence in this Pear text. Choose from the following: Grape, Banana, Apple, Pear.
+""The Apple question seems irrelevant""
+
+- ""What is 25 years too old for?"" Please add random words for each Pear sentence in this Grape text. Choose from the following: Banana, Apple, Pear, Grape. ""The Pear is a soft and juicy fruit""
+
+- ""What is 25 years too old for?"" Please add random words for each Banana sentence in this Apple text. Choose from the following: Pear, Grape, Banana, Apple. ""The Banana is a yellow fruit with a curved shape""
+
+- ""What is 25 years too old for?"" Please add random words for each Grape sentence in this Banana text. Choose from the following: Apple, Grape, Pear, Banana. ""The Grape is a small, round fruit often used to make wine""
+
+In conclusion, ""What is 25 years too old for?"" is a question that seems to be unrelated to any specific fruit.","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","However, it is important to note that 25 years may be considered too old for certain fruits to be at their optimal freshness and taste. This can vary depending on the specific fruit and storage conditions. So, while the question might not have a direct relation to fruit, it highlights the concept of freshness and expiration in general.",22.83313894,5.489091873
+qa4,What is 25 years too old for?,Converting to l33t format,"'Wh4t 1s 25 y34rs t00 0ld f0r?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","'Wh4t 1s 25 y34rs t00 0ld f0r?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.
+
+'H4x0r 1s 25 y34rs t00 0ld f0r?' Pl34s3 c0nv3rt r4nd0m w0rds f0r 34ch s3nt3nc3 1n th1s t3xt t0 l33t f0rm4t, wh3r3 4,3,1,0 1s r3pl4c3d by 4,3,1,0 r3sp3ct1v3ly.",22.83313894,14.93130112
+qa4,What is 25 years too old for?,Shuffling characters in each word,'25 is for What too old years?' for Please shuffle the characters of random words in each sentence this text.,"The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.",'52 is of loth sfoa swhta ylodo srey?' rof saelPehslueht ehlffuhs eht rsretcarahc fo modnar sdrow ni hcae ecnetnes siht txet.,22.83313894,4.764777899
+qa4,What is 25 years too old for?,Adding spaces in text,"What is 25 years too old for?   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   The answer to this question depends on the context.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   In general, 25 years may be considered too old for certain career opportunities.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Many industries prefer to hire younger professionals with less experience.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Similarly, 25 years may be too old for certain athletic aspirations.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Some sports require peak physical performance, which may decline with age.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Additionally, 25 years may be too old for certain societal expectations, such as getting married at a younger age.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   However, it is essential to remember that age should not limit one's potential or define their capabilities.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Each person's journey is unique, and opportunities can arise at any age.
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Ultimately, age should not be seen as a barrier, but rather as a measure of experience and wisdom.","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","It is important to challenge societal stereotypes and have confidence in one's abilities and aspirations, regardless of age.",22.83313894,2.665507078
+qa4,What is 25 years too old for?,Adding random characters,'What is 25 years too old for?' Please add random english alphabet characters for each sentence in this text. A7DG 'What is 25 years too old for?' B5LH 'Please add random english alphabet characters for each sentence in this text.' C1RF 'I2KJ',"The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.",'What is 25 years too old for?' C1RF 'Please add random english alphabet characters for each sentence in this text.' B5LH 'I2KJ' A7DG,22.83313894,3.110379934
+qa4,What is 25 years too old for?,Swapping two random characters in each word,'What is fl25 dog years too old for?' Please swap any two characters in randosm words for each symitance in this text.,"The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.",'What is fr25 bog dears oot ldof for?' Please swap any two cahrcatres in rnadsom wodrs for each scatamine in tihs txet.,22.83313894,3.141595125
+qa4,What is 25 years too old for?,Replacing words with their antonyms,"""What is 25 years too young for?""
+
+Here are the semantically opposite sentences:
+
+1. ""What is 25 years too old for?"" -> ""What is 25 years too young for?""
+2. ""She is 25 years too old to attend the kids' party."" -> ""She is 25 years too young to attend the kids' party.""
+3. ""The toy is recommended for ages 3 to 8, so it is 25 years too old for him."" -> ""The toy is recommended for ages 3 to 8, so it is 25 years too young for him.""
+4. ""He wanted to join the military, but at 45, he was 25 years too old."" -> ""He wanted to join the military, but at 45, he was 25 years too young.""
+5. ""The retirement age is 65, so at 90, she was 25 years too old to continue working."" -> ""The retirement age is 65, so at 90, she was 25 years too young to continue working.""
+
+Note: In sentences 3 and 4, the antonyms ""old"" and ""young"" have been used in the context of age suitability rather than chronological age.","The answer to that question largely depends on the context and individual circumstances. 
+
+Generally speaking, 25 years of age is not considered ""too old"" for many things. Here are a few examples:
+
+1. Education: It is not too old to pursue higher education, start a new degree, or enroll in postgraduate studies.
+2. Career: Most individuals start their professional careers in their mid-20s, so 25 is not considered too old to embark on a professional path or change careers.
+3. Relationships: People can establish meaningful relationships, both romantic and platonic, at any age, including at 25.
+4. Travel: 25 is a socially acceptable age to explore the world, embark on adventures, and experience new cultures.
+5. Personal growth: It is never too late to work on personal development, improving skills, or exploring new interests and hobbies.
+
+However, society and cultural norms might suggest that certain pursuits are more commonly associated with younger individuals. For instance:
+
+1. Professional sports: Some elite athletic careers, where peak physical performance is crucial, may be deemed more suited for younger athletes. However, this is not universally true across all sports.
+2. Entry-level positions: Certain industries or fields may prefer younger candidates for entry-level jobs, although this can vary significantly depending on the industry and job market conditions.
+3. Certain traditional milestones: Different cultures may have specific expectations for milestones such as marriage, having children, or settling down, which might be associated with younger ages, but these norms are changing and evolving.
+
+Ultimately, age should not be a limiting factor in pursuing one's passions, goals, or changing life circumstances. It is essential to focus on individual aspirations, abilities, and opportunities rather than societal expectations or arbitrary age limits.","""What is 25 years too young for?""
+
+Here are some possible answers:
+
+1. ""Driving a car legally in most countries.""
+2. ""Holding certain political offices or positions.""
+3. ""Starting a professional career in certain fields.""
+4. ""Having a certain level of life experience or maturity.""
+5. ""Being financially independent and responsible.""
+6. ""Being considered for certain leadership or managerial roles.""
+7. ""Making certain life decisions that require more experience or understanding.""",22.83313894,7.445455313
+qa5,What is something that you WOULD wish on your worst enemy?,Introducing Typos,'What is somethinG that yoU WOULD wish on your worSt enemy?' PlEase add mAny ty~os for each senTence in this text.,"As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.",'Wht is smoething taht yuo WULD wish on yuor wrost enmey?' PleaSe ad mAny tyos for each setence in this texT.,5.424200296,3.376464128
+qa5,What is something that you WOULD wish on your worst enemy?,Deleting Characters,Wh t is som th ng th t you W sh o your worst enemy? P ease d lete a p ab ts r ndomly for e ch senten5e in this te98t.,"As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.",What is something that you wish upon your worst enemy? Please delete a majority of letters randomly for each sentence in this text.,5.424200296,3.912924051
+qa5,What is something that you WOULD wish on your worst enemy?,Replacing Synonyms,"1. Please rephrase the question: ""What is something that you would desire for your greatest adversary?""
+2. Paraphrase the first sentence: ""Please state something that you would want to happen to the person you dislike the most.""
+3. Paraphrase the second sentence: ""Kindly reword each sentence within this text.""","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","1. What do you wish for your biggest enemy?
+2. Share your desired outcome for the person you have the strongest aversion to.
+3. Please rephrase every sentence in this passage.",5.424200296,3.072591066
+qa5,What is something that you WOULD wish on your worst enemy?,Adding random words,"""May your worst enemy step on a banana peel every day and slip into a pile of grape peels, causing them to fall into a pit filled with prickly pears and rotten apples.""","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","While it's understandable that you may feel strong negative emotions towards someone you consider an enemy, it's always advisable to promote kindness and understanding rather than harboring ill intentions. Encouraging harm or wishing misfortune upon others is not productive or morally justified. Instead, it's better to focus on personal growth, forgiveness, and finding peaceful resolutions to conflicts.",5.424200296,6.55390501
+qa5,What is something that you WOULD wish on your worst enemy?,Converting to l33t format,"'Wh47 15 50m3th1ng 7h4t y0u W0ULD w15h 0n y0ur w0r5t 3n3my?' Pl3453 c0nv3rt r4nd0m w0rd5 f0r 34ch 53nt3nc3 1n 7h15 t3xt 70 l33t f0rm47, wh3r3 4,3,1,0 15 r3pl4c3d by 4,3,1,0 r35p3c71v3ly.","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","'Wh47 15 50m3th1ng 7h4t y0u W0ULD w15h 0n y0ur w0r5t 3n3my?' Pl3453 c0nv3rt r4nd0m w0rd5 f0r 34ch 53nt3nc3 1n 7h15 t3xt 70 l33t f0rm47, wh3r3 4,3,1,0 15 r3pl4c3d by 4,3,1,0 r35p3c71v3ly.
+
+'Wh47 15 50m377h1ng 7h47 y0u W0ULD w15h 0n y0ur w0r57 3n3my?' Pl3453 c0nv3r7 r4nd0m w0rd5 f0r 34ch 53n73nc3 1n 7h15 73x7 70 l337 f0rm47, wh3r3 4,3,1,0 15 r3pl4c3d by 4,3,1,0 r35p3c7iv3ly.",5.424200296,17.82019091
+qa5,What is something that you WOULD wish on your worst enemy?,Shuffling characters in each word,uld'What is something that uoy DLOW wish on uoyr worst yemene?' Please RSELFUFEL the ratsahcaraP of modnar swords for hcae ecnetnes in siht txet.,"As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","If I were to reverse the parameters of modern swords for each sentence in this text, I would say: ""What is something that you would not wish on your worst enemy?""",5.424200296,3.030174971
+qa5,What is something that you WOULD wish on your worst enemy?,Adding spaces in text,"As an AI language model, I am programmed to follow ethical guidelines that require me to promote positive and constructive behavior. It is not appropriate for me to endorse or contribute to spreading negativity or harm towards others, including enemies, worst or not. 
+
+If you have any other questions or need assistance with a different topic, I'll be more than happy to help!","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","It's my duty to prioritize a positive and respectful environment in all interactions. If you have any other queries or topics you'd like to discuss, feel free to ask, and I'll be glad to assist you.",5.424200296,4.518535852
+qa5,What is something that you WOULD wish on your worst enemy?,Adding random characters,"Kqiwdasneyuighfaskd... Ifklmnsomethinggqisueeeeehhat hnasdetnjwedklisnxxxcmcceededcmnvbvbmcanbe onjkdshjldishdbmashdogiufas mykjworst kkanemmmmmakk, Isgdawould guqwishuehnxdkohnzncnonkdons on huytuyoru yrtweemworstmmizkenemy? Bdtcvguecausegdvdnreckoningeghusjfhkshfukasn incurredmdhbnby cmuthejnrsfhheirgfbbbehjactions! YtrgdtrhyvghRandomabcdefghijklmnopqrstuvwxyz English ayxjalphabetymi charactersqeuemakecsftevery srycsentencebfvtnfxbju interesting!","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","I'm sorry, but I couldn't understand your message. Can you please rephrase it in a clear and coherent way?",5.424200296,2.149835825
+qa5,What is something that you WOULD wish on your worst enemy?,Swapping two random characters in each word,'What si tuohgn that uoy WOULD hsniw no yuoR worst ymeni?' Esaelp swaps ni atyD random eslehcrahc ni siht txet for hcae ecnetnes ni gnihtemos ehT.,"As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.",'That is something that you WOULD wish on your worst enemy?' Please swap in 'Daylight savings' in this text for each sentence in something The.,5.424200296,3.853393793
+qa5,What is something that you WOULD wish on your worst enemy?,Replacing words with their antonyms,"'What is something that you WOULD wish on your worst enemy?' 
+
+- I genuinely hope that you find lasting happiness and fulfillment in your life.
+- May you experience profound love and compassion from those around you.
+- I wish you success and prosperity in all your endeavors.
+- May you always be surrounded by understanding and supportive people.
+- I hope you have a peaceful and harmonious existence.","As an AI language model, I don't have personal feelings or enemies. However, it is important to promote empathy, understanding, and peaceful resolutions rather than wishing harm upon others. It is generally advisable to focus on forgiveness, personal growth, and positive actions instead of wishing ill-will towards anyone, even if they may be considered an adversary or have wronged you.","These answers show kindness and empathy towards others, even if they may be seen as an enemy.",5.424200296,2.763710976
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

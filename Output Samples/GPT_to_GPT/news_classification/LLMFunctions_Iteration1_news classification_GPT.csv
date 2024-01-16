@@ -1,0 +1,908 @@
+InputTextID,InputText,PerturbationID,PerturbedText,OriginalOutput,PerturbedOutput,OriginalTime,PerturbedTime
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Introducing Typos,"'Reutors - Short-sellers, Wall Stre's dwinddling\ndand of ulrta-cynics, r seaing grenn agian.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Based on the given text, the news text would fall under the category of Business.",1.67335391,7.713905096
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Deleting Characters,"Reuters - h-sers, Wall Street's wining and of ultra-cynics, are seeing en again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Based on the given text, it is difficult to determine the category accurately as the content appears to be incoherent and contains several misspellings. However, if we assume some potential corrections, we could categorize it as follows:
+
+Business: Referring to Wall Street and investors.
+Science/Technology: Mentioning ultra-cynics.
+
+Please note that this categorization is based on assumptions and it is advised to provide accurate and comprehensive text for a more precise categorization.",1.67335391,7.310352802
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing Synonyms,"1. Short-sellers, a diminishing group of skeptical individuals on Wall Street, are once more experiencing financial gains.
+2. Short-sellers, a small group of pessimistic individuals on Wall Street, are once again making profits. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,Business,1.67335391,0.714797735
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random words,"'Reuters - Short-sellers, Wall Street's dwindling band of ultra-cynics, are seeing green again.' Please add random words for each sentence in this text. Choose from the following: Apple, Pear, Banana, Grape
+
+'Reuters - Banana, Short-sellers, Apple Wall Street's Grape dwindling band of ultra-cynics, Pear are seeing green again.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,This news text belongs to the Business category.,1.67335391,1.339143276
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Converting to l33t format,"'R3ut3rs - Sh0rt-53ll3r5, Wall Str33t's dw1ndl1ng\640nd 0f ultr4-cyn1c5, 4r3 53eing gr33n 4g41n.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,Business,1.67335391,0.712267876
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Shuffling characters in each word,"'urtesR - Sellers-thort, dtSletla's gnilwdni\bod fo tiAmcysrn, rea gniees neerg naig.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Based on the given text, it is not possible to categorize it into specific news categories. The text appears to be jumbled and contains random letters and punctuation marks that do not form coherent sentences or convey any meaningful information.",1.67335391,3.734309196
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding spaces in text,"'Reuters - Short-sellers, Wall Street's dwindling 
+   band of ultra-cynics, are seeing green again.' 
+Please add lots of spaces randomly for each sentence 
+   in-between this text. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Category: Business
+
+'Reuters - Short-sellers, Wall Street's dwindling     
+  band of ultra-cynics, are seeing green again.'",1.67335391,2.846780062
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random characters,"'Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again.' 
+
+QWEDAS - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. 
+
+Asdfjkl - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. 
+
+Gqkx - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. 
+
+Tbyuo - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. 
+
+Zxcvbnm - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Based on the given news text, it belongs to the Business category.",1.67335391,3.428300858
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Swapping two random characters in each word,"'Reurtse - Stonos-lieres, Wlal Streat's dwilndig snad of ulrta-cisyns, are sneig gneer aigan.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,"Based on the given text, it is not possible to categorize it into any of the provided categories (World, Sports, Business, Science/Technology). The text appears to be scrambled or contains typos and does not provide any clear information relating to any specific category.",1.67335391,6.04362011
+nc1,"Reuters - Short-sellers, Wall Street's dwindling\band of ultra-cynics, are seeing green again. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing words with their antonyms,"'Reuters - Long-investors, Wall Street's thriving band of optimists, are seeing red again.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",The news text falls under the category of Business.,Business,1.67335391,0.566642284
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Introducing Typos,"'Reuters - Private investmnt pirrm Carlyel Goup,\which as a reputtion for makin wel-tme and occasially\controversal plays in the defens industry, ha quiety plce\its bets on anoter part of the market.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,6.208061934,0.756179333
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Deleting Characters,"'Rters - iae invment firm Crl Goup, ich has repuation for mki well-ied ndccasinally\ontroversial plays in the den industry, as quietly place\ts bets on other pat of the market.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"From the given text, it can be categorized as Business.",6.208061934,1.641552687
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing Synonyms,"Carlyle Group, a private investment firm known for making strategically timed and sometimes controversial moves in the defense sector, has discreetly decided to invest in a different segment of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,6.208061934,0.725366116
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random words,"'Reuters - Private investment firm Carlyle Group, which has a reputation for making well-timed and occasionally controversial plays in the defense industry, has quietly placed its bets on another part of the market.' 
+
+Apple - Please add random words for each sentence in this text. Choose from the following: Apple, Pear, Banana, Grape.
+
+'Reuters - Private investment firm Carlyle Group, which has a reputation for making well-timed and occasionally controversial plays in the defense industry, has quietly placed its bets on another part of the Apple market.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Category: Business,6.208061934,1.019012213
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Converting to l33t format,"'R3ut3rs - Priv4t3 inv3stm3nt firm C4rlyl3 Group,\wh1ch h4s 4 r3put4t10n for m4k1ng w3ll-t1m3d 4nd occ4s10n4lly\c0ntr0v3rs14l pl4ys 1n th3 d3f3ns3 1ndustry, h4s qu13tly pl4c3d\1ts b3ts 0n 4n0th3r p4rt 0f th3 m4rk3t.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given news text, the category for this text is Business.",6.208061934,1.96391511
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Shuffling characters in each word,"""tseuRe - etavirP tnvestment firm eyrlaC elpuorG,\hcuhw sah a noitautisop drow sgnilpmi ot niagaetavirP\spanocilciffoc sialp ni eht ecneidni, sah yltiuq ylaced\sti steb no rehtona trap fo eht tekram."" Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given news text, it should be categorized as Business. This is evident from the mention of an investment firm, the reference to a company's operations, and the placement of an undisclosed mark which likely refers to the company's strong performance.",6.208061934,9.472817898
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding spaces in text,"'Reuters - Private investment firm Carlyle Group,
+
+which has a reputation for making well-timed and occasionally
+
+controversial plays in the defense industry, has quietly placed
+
+its bets on another part of the market.' 
+
+Please add lots of spaces randomly for each sentence in-between this text. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Category: Business
+
+'Reuters - Private investment firm Carlyle Group,  which has a reputation for making well-timed and occasionally  controversial plays in the defense industry, has quietly placed  its bets on another part of the market.'",6.208061934,4.537328005
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random characters,"'Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market.' 
+
+f'Reuters - Private investment firm Carlyle Group, wwhich has a reputation for making well-timed and occasionally ocontroversial plays in the defense industry, has quietly placed its bets on another part of the market.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,The news text falls under the category of Business.,6.208061934,4.293635845
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Swapping two random characters in each word,"'Ruerst - Piterva Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"To categorize a news text into the following categories: World, Sports, Business, Science/Technology, one approach is to utilize natural language processing techniques. This can be achieved by analyzing the content and context of the text to determine the most suitable category. Here is a simplified example:
+
+1. Preprocess the text: Remove any unnecessary characters, convert the text to lowercase, and split it into individual words.
+
+2. Create a list of keywords for each category:
+   - World: global, international, country names, political terms, etc.
+   - Sports: sport names, team names, athlete names, competition terms, etc.
+   - Business: industry terms, company names, financial terms, economic terms, etc.
+   - Science/Technology: scientific terms, technology names, innovation terms, etc.
+
+3. Assign a relevance score for each category based on the presence and frequency of the keywords in the text. The relevance score can be calculated by counting the number of matches between the keywords and the words in the text.
+
+4. Determine the category with the highest relevance score.
+
+Here is a Python example using the NLTK library:
+
+```python
+import nltk
+
+def categorize_news(text):
+    # Preprocess the text
+    text = text.lower()
+    words = nltk.word_tokenize(text)
+
+    # Load keyword lists
+    world_keywords = ['global', 'international', 'country1', 'country2', ...]
+    sports_keywords = ['sport1', 'sport2', 'team1', 'team2', ...]
+    business_keywords = ['industry1', 'company1', 'financial1', 'economic1', ...]
+    sci_tech_keywords = ['science1', 'technology1', 'innovation1', ...]
+
+    # Calculate the relevance score for each category
+    world_score = sum(word in words for word in world_keywords)
+    sports_score = sum(word in words for word in sports_keywords)
+    business_score = sum(word in words for word in business_keywords)
+    sci_tech_score = sum(word in words for word in sci_tech_keywords)
+
+    # Determine the category with the highest relevance score
+    categories = {'World': world_score, 'Sports': sports_score, 'Business': business_score, 'Science/Technology': sci_tech_score}
+    max_category = max(categories, key=categories.get)
+
+    return max_category
+
+# Example usage
+news_text = ""A new scientific discovery was made today...""
+category = categorize_news(news_text)
+print(category)
+```
+
+Note that this is a simplified example, and in a real-world scenario, you may need to enhance the keyword lists and consider more complex natural language processing techniques to achieve better results.",6.208061934,59.60130405
+nc2,"Reuters - Private investment firm Carlyle Group,\which has a reputation for making well-timed and occasionally\controversial plays in the defense industry, has quietly placed\its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing words with their antonyms,"Reuters - Public investment firm Carlyle Group, which has a reputation for making poorly-timed and consistently uncontroversial plays in the defense industry, has loudly withdrawn its bets on another part of the market. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,6.208061934,0.819973946
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Introducing Typos,"'Reuers - Siaring curde pries plsu woories/abuot the conoomy and the outloook for earinngs are xpected to hang ovef the stcok market nexxt week durnig the deepth of the sumemr doldurms.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,8.296262026
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Deleting Characters,"'Rere - Sig cru rice puls woris\abot theonomy and the utloo or earnings ae xpcted to\hang ver thestock makt next weekdurng thepth of the\summerdolrms.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,The news text provided does not fit into any of the given categories accurately.,0.918878078,7.214955807
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing Synonyms,"1. The stock market may be affected next week by a significant increase in oil prices as well as concerns about the economy and future earnings.
+
+2. These factors are likely to overshadow the stock market during the slowest period of the summer season. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,5.018002033
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random words,"'Reuters - Soaring Apple crude prices plus worries Pear about the economy and the outlook for earnings are expected Banana to hang over the stock market Grape next week during the depth of the summer doldrums.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Category: Business,0.918878078,0.921949148
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Converting to l33t format,"'R3ut3rs - S04ring crud3 pric3s plus w0rri3s\4b0ut th3 3c0n0my 4nd th3 0utl00k f0r 34rnings 4r3 3xp3ct3d t0\h4ng 0v3r th3 st0ck m4rk3t n3xt w33k during th3 d3pth 0f th3\summ3r d0ldrums.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,5.427046061
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Shuffling characters in each word,"Reuters - Giroasn cruem irecps plush soiowrr
+about the ymocome dna het tloook for ngisnere are dexeptc
+otpme revog eht eikorots na yekil dahs eht moc
+relbmuls. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"The provided text seems to be jumbled and contains misspellings and gibberish, making it difficult to categorize the news text accurately. Can you please provide a clear and coherent text for categorization?",0.918878078,4.018317938
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding spaces in text,"'Reuters - Soa rin g cr ude pric es plu s worri es about the e con omy an d the outl ook for e arn ings are expect ed to hang over the stock market next we ek dur ing the de pth of the summer doldrums.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,3.378185987
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random characters,"'RvRiemeintsebusra - Sohamoieyerrinng ciurudhrnepruidcuiecs plus woikrreises\about the ecojnomny and the outlok for oeairnngs arwe sokxpceted to\hang ovr the stock markzet nxte week dwuirng the\sumeermr dolrdrums.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,0.84258914
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Swapping two random characters in each word,"'Roeters - Sarasod curde pirces ulsp wories\about the eoconmy adn the outloko for ernings era tcexpe odhang over the stcok maret next week dunrig the depth of hte\summer lolrdmdus.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.918878078,7.198126078
+nc3,"Reuters - Soaring crude prices plus worries\about the economy and the outlook for earnings are expected to\hang over the stock market next week during the depth of the\summer doldrums. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing words with their antonyms,"1. Original: Soaring crude prices plus worries about the economy and the outlook for earnings are expected to hang over the stock market next week during the depth of the summer doldrums.
+   Opposite: Plummeting crude prices and confidence in a stable economy, along with optimistic earnings forecasts, will uplift the stock market next week during the height of summer vitality.
+
+2. Original: Please give me text that is semantically opposite to each sentence in this text.
+   Opposite: Please provide me with text that is semantically identical to each sentence in this text. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"1. Original: The company achieved record-breaking profits this quarter, exceeding all expectations.
+   Opposite: The company suffered unprecedented losses this quarter, falling short of all expectations.
+
+2. Original: The new regulations will benefit consumers by ensuring better quality and lower prices.
+   Opposite: The new regulations will harm consumers by resulting in poorer quality and higher prices.
+
+3. Original: The research findings conclusively prove the effectiveness of the new treatment.
+   Opposite: The research findings definitively disprove the effectiveness of the new treatment.
+
+4. Original: The CEO's inspirational leadership transformed the company into a thriving global enterprise.
+   Opposite: The CEO's uninspiring leadership caused the company to crumble into bankruptcy.
+
+5. Original: The government's stimulus package revitalized the economy and created numerous job opportunities.
+   Opposite: The government's austerity measures paralyzed the economy and led to widespread job losses.
+
+Categories:
+World: 
+1. War-torn nation finally achieves peace after decades of conflict.
+2. Natural disaster claims thousands of lives in remote island nation.
+
+Sports:
+1. Local football team secures a historic victory against their rival.
+2. Olympic athlete breaks world record in the 100-meter sprint.
+
+Business:
+1. Tech startup secures multi-million dollar funding to expand globally.
+2. Retail giant faces bankruptcy amidst declining sales and fierce competition.
+
+Science/Technology:
+1. Revolutionary discovery in cancer research brings hope for a cure.
+2. Breakthrough in artificial intelligence leads to major advancements in autonomous vehicles.",0.918878078,24.37154412
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Introducing Typos,"'Reuters - Auhoritiees havv halte oil exporf/flos from the main pipelin in souther Iraq aftr, intlligenc showed a rebel millitia could strick infrastrcutre, an oi; oficia; said on Saturdya. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,The news text can be categorized as Business.,0.740455866,1.228812933
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Deleting Characters,"'Rs - utorties have hltd il exor\los from the min pipine in suthern Ira after\ilignce shwe  rbel miiia ould trke\infrtructure, an il offiil sad on Sturdy.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"The given news text does not fit into any of the provided categories (World, Sports, Business, Science/Technology). It appears to be a combination of jumbled words and does not convey any coherent information.",0.740455866,3.485364199
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing Synonyms,"According to an oil official, the export of oil through the primary pipeline in southern Iraq has been stopped by the authorities due to concerns that rebel militia may target the infrastructure. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.740455866,0.715945005
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random words,"'Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Apple Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the provided news text, the most appropriate categorization for the news would be:
+
+Business",0.740455866,2.081264973
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Converting to l33t format,"'R3ut3rs - Auth0r1t13s h4v3 h4lt3d 01l 3xp0rt/fl0ws fr0m th3 m41n p1p3l1n3 1n s0uth3rn 1r4q 4ft3r 1nt3ll1g3nc3 sh0w3d 4 r3b3l m1l1t14 c0uld str1k3 1nfr4structur3, 4n 01l 0ff1c14l s41d 0n S4turd4y.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given news text, it falls under the category of World or Politics.",0.740455866,3.931052923
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Shuffling characters in each word,"'Tahruse - itAahiutrosEv hav elath siu foollpxe srcaeidnU loif xneporwsrehT from eht niama eniliep in nhrehtuos hcarI daorhtuoY efosorcirtsi dnaL,.rebmilaccepsilbufer sAelppa saide dioloS' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given text, it is difficult to categorize the news into the provided categories accurately. The given text appears to be a mixture of random letters and does not convey any meaningful information.",0.740455866,4.40873313
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding spaces in text,"Reuters -  A u t h o r i t i e s     have halted oil export\flows  from  the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.740455866,4.505144119
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random characters,"'Reuters - Authorities have halted oil export\flows frRdPiH from the main pipeline in southern Iraq afteLQJ\intelligence showed a rebel militia couBRTt strike\infrastructure, an oil official said on Saturday.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,The news text can be categorized as Business.,0.740455866,1.229152918
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Swapping two random characters in each word,"'Rtueers - Authoirites have htlaed oil eprto\fols from the main pipnleie in suothren Iqrau after\intelngcile sowehd a reebll mliitia culod srtkie\niftrustruce, an oil offciail sdai on Sutraday.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given news text, it can be categorized into the category of World news.",0.740455866,3.533951044
+nc4,"Reuters - Authorities have halted oil export\flows from the main pipeline in southern Iraq after\intelligence showed a rebel militia could strike\infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing words with their antonyms,"Reuters - Authorities have resumed oil export flows from the main pipeline in southern Iraq after intelligence showed a rebel militia poses no threat to infrastructure, an oil official said on Saturday. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.740455866,2.355950832
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Introducing Typos,"'AFP - Tyaraway word oil pices, toppling recrds and strainin wolltts, presemt a new economc menuce barely three months befor the US prsidentil elecions.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the provided text, the news text can be categorized as Business.",0.711336851,1.699248791
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Deleting Characters,"'FP - Tearawa ld oil pric, toppin reors and stai wallts, pres a n ecoic mece baa three mths befo the US prsidential lectis.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the provided text, the news can be categorized into the following category:
+
+Business",0.711336851,1.622713089
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing Synonyms,"Tearaway global oil prices, breaking records and causing financial strain, pose a fresh economic threat just three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.711336851,0.716601849
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random words,"'AFP - Tearaway Banana world oil prices, toppling Grape records and straining Pear wallets, present a new Apple economic menace barely three months before the US presidential elections.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,The news text can be categorized as Business.,0.711336851,2.659961224
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Converting to l33t format,"'4FP - T34r4w4y w0rld 01l pric3s, t0pp1ng r3c0rds 4nd str41n1ng w4ll3ts, pr3s3nt 4 n3w 3c0n0m1c m3n4c3 b4r3ly thr33 m0nths b3f0r3 th3 US pr3s1d3nt14l 3l3ct10ns.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the provided text, it belongs to the category of Business.",0.711336851,1.540142775
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Shuffling characters in each word,"'US Tearaway - world records, toppling wallets and oil prices, economic a present new before barely three months the AFP presidential elections.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given text, the news can be categorized as follows:
+
+Business: The mention of ""oil prices"" and ""economic"" suggests that the news relates to business and the economy.
+
+World: The mentioning of ""US Tearaway - world records"" indicates a global perspective and potentially involves events or records of global significance.
+
+Therefore, the news text can be categorized under Business and World.",0.711336851,8.707579136
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding spaces in text,"A F P   -   T e a r a w a y   w o r l d   o i l   p r i c e s ,   t o p p l i n g   r e c o r d s   a n d   s t r a i n i n g   w a l l e t s ,   p r e s e n t   a   n e w   e c o n o m i c   m e n a c e   b a r e l y   t h r e e   m o n t h s   b e f o r e   t h e   U S   p r e s i d e n t i a l   e l e c t i o n s . Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.711336851,0.837908268
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Adding random characters,"'AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections.' Please add random english alphabet characters for each sentence in this text. 
+
+'AFP - Tearaway world oil prices, toppling recoxrds and straining wallets, present a new economic menacebarely three months before the US presidentaxl elections.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Category: Business,0.711336851,1.637683868
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Swapping two random characters in each word,"'AFR - Meratwpa yolr oiw secirp, topplign secorrd and stiarnng wetauls, presnet a new oocnmie menace barle ertah motnhse rofbee the SU sneirdslpetino.' Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,"Based on the given text, the news can be categorized as Science/Technology.",0.711336851,2.149607897
+nc5,"AFP - Tearaway world oil prices, toppling records and straining wallets, present a new economic menace barely three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Replacing words with their antonyms,"AFP - Stable world oil prices, falling within normal ranges and reducing financial burden, present a familiar economic stability just three months before the US presidential elections. Categorize the news text into the following categories: World, Sports, Business, Science/Technology.",Business,Business,0.711336851,0.714013815
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

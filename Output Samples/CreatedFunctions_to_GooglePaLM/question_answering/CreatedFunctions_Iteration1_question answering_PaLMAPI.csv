@@ -1,0 +1,58 @@
+InputTextID,InputText,PerturbationID,PerturbedText,OriginalOutput,PerturbedOutput,OriginalTime,PerturbedTime
+qa1,what's something that's really bad for the body but people keep doing it?,Introducing Typos,ptatnsasosethiag dhft'hzveglla bahiforfehe bodu butcpeotle kejp doglg it?,Smoking,,1.467710018,0.654139042
+qa1,what's something that's really bad for the body but people keep doing it?,Deleting Characters,hat'ssmehin that'selb for he boy uteople keepdoing,Smoking,,1.467710018,0.632565975
+qa1,what's something that's really bad for the body but people keep doing it?,Replacing Synonyms,what's something that's really bad for the dead_body simply hoi_polloi stay_fresh do it?,Smoking,embalming,1.467710018,0.65881896
+qa1,what's something that's really bad for the body but people keep doing it?,Adding random words,what's something banana that's pear really pear bad for the body but people keep doing banana it? banana,Smoking,,1.467710018,0.571867943
+qa1,what's something that's really bad for the body but people keep doing it?,Converting to l33t format,what's something that's really bad for the body but people k33p doing 1t?,Smoking,Smoking,1.467710018,0.956653833
+qa1,what's something that's really bad for the body but people keep doing it?,Shuffling characters in each word,what's sihtnomeg tt'has rlaley bad for the body but people keep doing it?,Smoking,,1.467710018,0.715059996
+qa1,what's something that's really bad for the body but people keep doing it?,Adding spaces in text, w ha t' s s omet hi n g th at's  r e al ly b a d  f o r  the body b ut people kee p do i ng i t ?,Smoking,,1.467710018,0.929376841
+qa1,what's something that's really bad for the body but people keep doing it?,Adding random characters,what'se something thautx's vreeally beacd for hthje bbodyw but peopllev kreeupj dohingd it?,Smoking,Smoking,1.467710018,0.706387043
+qa1,what's something that's really bad for the body but people keep doing it?,Swapping two random characters in each word,wtah's something taht's really bad for the bdoy but ppoele keep doing it?,Smoking,Smoking,1.467710018,0.611541033
+qa1,what's something that's really bad for the body but people keep doing it?,Replacing words with their antonyms,what's something that's really good for the body but people let unmake it?,Smoking,Sleep,1.467710018,0.673280001
+qa2,What is 22 years too old for?,Introducing Typos,Wcnt is 22 years two zld for?,,22 years two zld is 22 years and 2 months.,0.582124949,0.568768024
+qa2,What is 22 years too old for?,Deleting Characters,Wat 22 year tool fr,,22 year old tool ,0.582124949,0.649800062
+qa2,What is 22 years too old for?,Replacing Synonyms,What personify 22 years as_well old for?,,a college student,0.582124949,0.620674133
+qa2,What is 22 years too old for?,Adding random words,What apple is apple 22 years pear too old for?,,Granny Smith,0.582124949,0.583323002
+qa2,What is 22 years too old for?,Converting to l33t format,Wh4t 1s 22 years too 0ld for?,,a baby,0.582124949,0.512532949
+qa2,What is 22 years too old for?,Shuffling characters in each word,What is 22 years too old for?,,,0.582124949,0.492998838
+qa2,What is 22 years too old for?,Adding spaces in text,W ha t   i s   22 years  too  old  for?,,a baby,0.582124949,0.554567814
+qa2,What is 22 years too old for?,Adding random characters,What yisd 22 yelavrs toot otldr fcoprc?,,1998,0.582124949,0.787628889
+qa2,What is 22 years too old for?,Swapping two random characters in each word,Waht is 22 years too old for?,,kindergarten,0.582124949,0.647111177
+qa2,What is 22 years too old for?,Replacing words with their antonyms,What differ 22 years too young for?,,"22 years is too young for:
+
+- Drinking alcohol in the United States
+- Voting in the United States
+- Buying cigarettes in the United States
+- Getting a driver's license in the United States",0.582124949,0.920300007
+qa3,What's a dead giveaway that someone is a bad person?,Introducing Typos,Whaf's aceead giveawey ahqgvsomeohc is a baa perdon?,,a bad person,0.669808149,0.580726147
+qa3,What's a dead giveaway that someone is a bad person?,Deleting Characters,hat's ead giveaytatoei abd ersn?,,"**ead giveaytatoei** is a misspelling of the word ""edible"".",0.669808149,0.63838315
+qa3,What's a dead giveaway that someone is a bad person?,Replacing Synonyms,What's A dead giveaway that individual be angstrom bad person?,,,0.669808149,2.32727623
+qa3,What's a dead giveaway that someone is a bad person?,Adding random words,What's a banana dead giveaway that apple someone is grape a bad person?,,,0.669808149,0.715380907
+qa3,What's a dead giveaway that someone is a bad person?,Converting to l33t format,Wh4t's 4 dead giveaway that s0m30n3 1s a b4d p3rs0n?,,,0.669808149,3.377962112
+qa3,What's a dead giveaway that someone is a bad person?,Shuffling characters in each word,What's a dead gievaawy taht smonoee is a bad prsone?,,,0.669808149,0.612590075
+qa3,What's a dead giveaway that someone is a bad person?,Adding spaces in text, W h a t's a de a d  gi veawa y  th at  s o m eon e  is a   ba d p erson?,,,0.669808149,2.763550043
+qa3,What's a dead giveaway that someone is a bad person?,Adding random characters,xWthat's a debady wgiveawmayo that stomqeonde is wa bwadw personr?,,,0.669808149,2.151965857
+qa3,What's a dead giveaway that someone is a bad person?,Swapping two random characters in each word,Wtah's a dead giveaway taht someone is a bad porsen?,,,0.669808149,0.610134602
+qa3,What's a dead giveaway that someone is a bad person?,Replacing words with their antonyms,What's a living giveaway that someone differ a good person?,,"**They are kind to others, even when it's not easy.**
+
+Good people are always looking for ways to help others, even when it's not convenient or easy for them. They are always willing to lend a helping hand, and they are always there for those they care about.",0.669808149,0.921062231
+qa4,What is 25 years too old for?,Introducing Typos,Whan cs q5 yearf toojeld for?,,2019,0.554229021,0.544167995
+qa4,What is 25 years too old for?,Deleting Characters,Whtyeato old ?,,100 years,0.554229021,0.660541773
+qa4,What is 25 years too old for?,Replacing Synonyms,What be xxv long_time to_a_fault older for?,,10 years,0.554229021,0.714247942
+qa4,What is 25 years too old for?,Adding random words,What is 25 pear years too old for?,,a pear,0.554229021,0.511501074
+qa4,What is 25 years too old for?,Converting to l33t format,What 1s 25 y34rs too 0ld for?,,kindergarten,0.554229021,0.623707056
+qa4,What is 25 years too old for?,Shuffling characters in each word,What is 25 years too old for?,,,0.554229021,0.602236032
+qa4,What is 25 years too old for?,Adding spaces in text, Wha t i s 2 5 y ea rs to o  o l d fo r?,,25 years is too old for a baby.,0.554229021,0.715433121
+qa4,What is 25 years too old for?,Adding random characters,wWhhaet is 25 xysears ntooa uold focr?,,four,0.554229021,0.612716913
+qa4,What is 25 years too old for?,Swapping two random characters in each word,What is 25 yeras too old for?,,kindergarten,0.554229021,0.715724945
+qa4,What is 25 years too old for?,Replacing words with their antonyms,What differ 25 years too new for?,,a 1950s house,0.554229021,0.604892969
+qa5,What is something that you WOULD wish on your worst enemy?,Introducing Typos,Whls ku sognthijgyjhat you WOULD wish on youckworat enegi?,A lifetime of happiness,more time,0.638039827,0.613727093
+qa5,What is something that you WOULD wish on your worst enemy?,Deleting Characters,Whatis sen thatouOLD wis n or worem?,A lifetime of happiness,"""Old wis n or worem"" is a Scottish phrase that means ""old and wise"".",0.638039827,0.777894974
+qa5,What is something that you WOULD wish on your worst enemy?,Replacing Synonyms,What personify something that you WOULD care on your defective enemy?,A lifetime of happiness,A teddy bear,0.638039827,0.756817102
+qa5,What is something that you WOULD wish on your worst enemy?,Adding random words,What is something that apple you WOULD grape wish pear on grape your worst grape enemy? pear,A lifetime of happiness,,0.638039827,0.523679018
+qa5,What is something that you WOULD wish on your worst enemy?,Converting to l33t format,What 1s something that y0u WOULD wish on your w0rst 3n3my?,A lifetime of happiness,"I would wish that my worst enemy would always be one step behind in life. They would never be able to catch up to me, no matter how hard they tried. They would always be second best, and they would always know it.",0.638039827,0.907841921
+qa5,What is something that you WOULD wish on your worst enemy?,Shuffling characters in each word,What is siemonhtg that you WOULD wish on your worst emeny?,A lifetime of happiness,A lifetime of happiness,0.638039827,0.614868879
+qa5,What is something that you WOULD wish on your worst enemy?,Adding spaces in text,W hat  is   som et h i ng th at   you W O UL D  wi sh on  you r  w o rst en em y?,A lifetime of happiness,,0.638039827,0.717653036
+qa5,What is something that you WOULD wish on your worst enemy?,Adding random characters,Whatn is somethiinygc tjhat you WOULDw wyinszh on yoeur nwosrst ennyehmpy?,A lifetime of happiness,More time,0.638039827,0.66104126
+qa5,What is something that you WOULD wish on your worst enemy?,Swapping two random characters in each word,Waht is somhteing taht you WUOLD wsih on yuor worst enemy?,A lifetime of happiness,To be happy,0.638039827,0.563423157
+qa5,What is something that you WOULD wish on your worst enemy?,Replacing words with their antonyms,What differ something that you WOULD begrudge off your best enemy?,A lifetime of happiness,"Something that I would begrudge off my best enemy is something that would cause them great pain or suffering. For example, I would not begrudge them a small financial setback or a minor inconvenience, but I would begrudge them something that would truly hurt them, such as the loss of a loved one or a serious illness. I believe that it is important to treat your enemies with respect, even if you do not like them. By doing so, you are setting a good example for others and showing that you are a better person than they are.",0.638039827,1.532764912
