@@ -1,15 +1,7 @@
-from absl import logging
-
-import tensorflow as tf
-
 import tensorflow_hub as hub
-# import matplotlib.pyplot as plt
 import numpy as np
 import os
 import pandas as pd
-import re
-import seaborn as sns
-import math
 
 tasks = ['toxicity_detection', 'news_classification', 'sentiment_analysis', 'question_answering', 'text_summarization', 'information_retrieval']
 llms = ['GooglePaLM','Llama2', 'GPT'] 
@@ -387,8 +379,6 @@ def MR_Text_Summarization(task, target):
 
                 sts = []
                 for t1, t2 in zip(org_text, pert_text):
-                    # print(t1 + " /// " + t2)
-                    # print(np.inner(embed([t1]), embed([t2]))[0][0])
                     sts.append(np.inner(embed([t1]), embed([t2]))[0][0])
                 MR_comparison.append(sum(sts)/len(sts))                
         MR_results.append(MR_comparison[:])  
@@ -494,7 +484,6 @@ def Most_Similar_Ranking_Diff(org_text, pert_text): # Ranking distance for the a
 
     return sum(ranking_diffs) / len(ranking_diffs)
 
-import random
 
 def MR_ND_EQ(task, target):
     task_path = target + task + "/"
@@ -609,8 +598,6 @@ def MR_ND_SEM_EQ(task, target):
     return sum(diff_list) / len(diff_list)
     
 def PerturbationQuality(org_text, pert_text):
-    # perturbation_quality = None
-    
     if type(org_text) is not str or type(pert_text) is not str: # Input error
         return -1, -1
     
@@ -663,24 +650,15 @@ def PerturbationQuality(org_text, pert_text):
     if id_flag and sentence_diff == 0: # No perturbation applied
         return 0, 0
     
-    # token_diff = None
     context_sim = None
     count = 0
     context_temp_sim = 0
-    # temp_diff = 0
+
     for s1, s2 in zip(org_text_list, pert_text_list):
-        # s1_list = s1.split(" ")
-        # s2_list = s2.split(" ")
-        
         context_temp_sim += np.inner(embed([s1]), embed([s2]))[0][0]
-        
-        # for t1, t2 in zip(s1_list, s2_list):
-        #     if t1 != t2:
-        #         temp_diff += 1
         count += 1
-    # token_diff = temp_diff / count
+
     context_sim = context_temp_sim / count
-    # sentence_diff = sentence_diff / count
     
     if context_sim >= 0.98: # No perturbation applied
         return 0, 0
@@ -698,44 +676,34 @@ def main(run_option):
                 for count, task in enumerate(tasks):
 
                     if count == 0: # toxicity detection -> 0: not matched, 0.5: matched but different reasons, 1: fully matched
-                        # R_TD_MR_Results = []
                         print("TD R MR Analysis")
                         ND_Results.append(MR_ND_EQ(task, target))
                         R_TD_MR_Results, EF_TD_Results, R_TD_Perturb = MR_Toxicity_Detection(task, target)
-                        # print(R_TD_MR_Results)
+
                     elif count == 1: # News Classification
-                        # R_NS_MR_Results = []
                         print("NC R MR Analysis")
                         ND_Results.append(MR_ND_EQ(task, target))
                         R_NC_MR_Results, EF_NC_Results, R_NC_Perturb = MR_News_Classification(task, target)
-                        # print(R_NS_MR_Results)
-                        # print(ND_NS_Results)
+                
                     elif count == 2: # Sentiment Analysis
-                        # R_SA_MR_Results = []                    
                         print("SA R MR Analysis")
                         ND_Results.append(MR_ND_EQ(task, target))
                         R_SA_MR_Results, EF_SA_Results, R_SA_Perturb = MR_Sentiment_Analysis(task, target)
-                        # print(R_SA_MR_Results)
+
                     elif count == 3: # Question Answering
-                        # R_QA_MR_Results = []
                         print("QA R MR Analysis")
                         ND_Results.append(MR_ND_SEM_EQ(task, target))
                         R_QA_MR_Results, EF_QA_Results, R_QA_Perturb = MR_Question_Answering(task, target)
-                        # print(R_QA_MR_Results)
+
                     elif count == 4: # Text Summarization
-                        # R_TS_MR_Results = []
                         print("TS R MR Analysis")
                         ND_Results.append(MR_ND_SEM_EQ(task, target))
                         R_TS_MR_Results, EF_TS_Results, R_TS_Perturb = MR_Text_Summarization(task, target)
-                        # print(R_TS_MR_Results)
+
                     else: # Information Retrieval
-                        # R_IR_MR_Results_STS = [] 
-                        # R_IR_MR_Results_MSRD = []
                         print("IR MR Analysis")
                         ND_Results.append(MR_ND_SEM_EQ(task, target))
                         R_IR_MR_Results_STS, R_IR_MR_Results_MSRD, EF_IR_Results, R_IR_Perturb = MR_Information_Retrieval(task, target)
-                        # print(R_IR_MR_Results_STS)
-                        # print(R_IR_MR_Results_MSRD)
                 
                 with pd.ExcelWriter(R_log_path + perturb + "_to_" + llm + ".xlsx") as writer:
                     # Robustness 
@@ -772,23 +740,19 @@ def main(run_option):
             for count, task in enumerate(tasks):
 
                 if count == 0: # toxicity detection -> 0: not matched, 0.5: matched but different reasons, 1: fully matched
-                    # R_TD_MR_Results = []
                     print("TD F MR Analysis")
                     ND_Results.append(MR_ND_EQ(task, target))
                     F_TD_MR_Results, EF_TD_Results, F_TD_Perturb  = MR_Toxicity_Detection(task, target)
-                    # print(R_TD_MR_Results)
+
                 elif count == 2: # Sentiment Analysis
-                    # R_SA_MR_Results = []                    
                     print("SA F MR Analysis")
                     ND_Results.append(MR_ND_EQ(task, target))
                     F_SA_MR_Results, EF_SA_Results, F_SA_Perturb  = MR_Sentiment_Analysis(task, target)
-                    # print(R_SA_MR_Results)
+
                 elif count == 3: # Question Answering
-                    # R_QA_MR_Results = []
                     print("QA F MR Analysis")
                     ND_Results.append(MR_ND_SEM_EQ(task, target))
                     F_QA_MR_Results, EF_QA_Results, F_QA_Perturb  = MR_Question_Answering(task, target)
-                    # print(R_QA_MR_Results)
             
             with pd.ExcelWriter(F_log_path + llm + ".xlsx") as writer:
                 # Robustness 
