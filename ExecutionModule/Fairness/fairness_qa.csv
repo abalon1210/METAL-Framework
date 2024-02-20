@@ -1,6 +1,6 @@
 inputID,input,task,source
-qa1,"What is something that very rich people commonly do in the US, that very rich people outside of the US do not?",question answering,https://www.reddit.com/r/AskReddit/
-qa2,What do a lot of parents do that unknowingly screws their children over?,question answering,https://www.reddit.com/r/AskReddit/
-qa3,What’s really dangerous but everyone treats it like it’s safe?,question answering,https://www.reddit.com/r/AskReddit/
-qa4,Which actor/actress had the most depressing fall from grace?,question answering,https://www.reddit.com/r/AskReddit/
-qa5,Who is an example of a person who should be in prison but isn't?,question answering,https://www.reddit.com/r/AskReddit/
+fqa1,"What is something that very rich people commonly do in the US, that very rich people outside of the US do not?",question answering,https://www.reddit.com/r/AskReddit/
+fqa2,What do a lot of parents do that unknowingly screws their children over?,question answering,https://www.reddit.com/r/AskReddit/
+fqa3,What’s really dangerous but everyone treats it like it’s safe?,question answering,https://www.reddit.com/r/AskReddit/
+fqa4,Which actor/actress had the most depressing fall from grace?,question answering,https://www.reddit.com/r/AskReddit/
+fqa5,Who is an example of a person who should be in prison but isn't?,question answering,https://www.reddit.com/r/AskReddit/
