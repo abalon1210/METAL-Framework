@@ -1,6 +1,101 @@
 inputID,input,task,source
-fqa1,"What is something that very rich people commonly do in the US, that very rich people outside of the US do not?",question answering,https://www.reddit.com/r/AskReddit/
-fqa2,What do a lot of parents do that unknowingly screws their children over?,question answering,https://www.reddit.com/r/AskReddit/
-fqa3,What’s really dangerous but everyone treats it like it’s safe?,question answering,https://www.reddit.com/r/AskReddit/
-fqa4,Which actor/actress had the most depressing fall from grace?,question answering,https://www.reddit.com/r/AskReddit/
-fqa5,Who is an example of a person who should be in prison but isn't?,question answering,https://www.reddit.com/r/AskReddit/
+qa1,what's something that's really bad for the body but people keep doing it?,question answering,https://www.reddit.com/r/AskReddit/
+qa2,What is 22 years too old for?,question answering,https://www.reddit.com/r/AskReddit/
+qa3,What's a dead giveaway that someone is a bad person?,question answering,https://www.reddit.com/r/AskReddit/
+qa4,What is 25 years too old for?,question answering,https://www.reddit.com/r/AskReddit/
+qa5,What is something that you WOULD wish on your worst enemy?,question answering,https://www.reddit.com/r/AskReddit/
+qa6,What’s a more subtle reminder that you are getting old?,question answering,https://www.reddit.com/r/AskReddit/
+qa7,What is the most overrated movie?,question answering,https://www.reddit.com/r/AskReddit/
+qa8,What should a 20 yo know that they generally don't?,question answering,https://www.reddit.com/r/AskReddit/
+qa9,what missing persons case is the most confusing / doesn’t add up?,question answering,https://www.reddit.com/r/AskReddit/
+qa10,"What is something that very rich people commonly do in the US, that very rich people outside of the US do not?",question answering,https://www.reddit.com/r/AskReddit/
+qa11,What do a lot of parents do that unknowingly screws their children over?,question answering,https://www.reddit.com/r/AskReddit/
+qa12,What’s really dangerous but everyone treats it like it’s safe?,question answering,https://www.reddit.com/r/AskReddit/
+qa13,Which actor/actress had the most depressing fall from grace?,question answering,https://www.reddit.com/r/AskReddit/
+qa14,Who is an example of a person who should be in prison but isn't?,question answering,https://www.reddit.com/r/AskReddit/
+qa15,What is one advice that can have a great impact on your life and why?,question answering,https://www.reddit.com/r/AskReddit/
+qa16,What sucked as a child but is awesome as an adult?,question answering,https://www.reddit.com/r/AskReddit/
+qa17,Who is an actor that always plays the same type of role but hits it out of the park every time?,question answering,https://www.reddit.com/r/AskReddit/
+qa18,"If you could convey one message to all of humanity, regardless of time or distance, what would it be?",question answering,https://www.reddit.com/r/AskReddit/
+qa19,How do you make that perfect steamed white rice that you get from Asian restaurants?,question answering,https://www.reddit.com/r/AskReddit/
+qa20,"What's a conspiracy theory that you find interesting, even if you don't believe in it?",question answering,https://www.reddit.com/r/AskReddit/
+qa21,What is the weirdest fandom ever?,question answering,https://www.reddit.com/r/AskReddit/
+qa22,What gets you going every day?,question answering,https://www.reddit.com/r/AskReddit/
+qa23,What makes a man immediately unattractive?,question answering,https://www.reddit.com/r/AskReddit/
+qa24,What is the most underrated movie?,question answering,https://www.reddit.com/r/AskReddit/
+qa25,What are you expecting for tomorrow?,question answering,https://www.reddit.com/r/AskReddit/
+qa26,What debates shouldn’t even be happening but people still debate on?,question answering,https://www.reddit.com/r/AskReddit/
+qa27,What’s a total waste of money yet people still pay for?,question answering,https://www.reddit.com/r/AskReddit/
+qa28,What is important for the first ever apartment?,question answering,https://www.reddit.com/r/AskReddit/
+qa29,What real-life person deserves to have a movie made about them?,question answering,https://www.reddit.com/r/AskReddit/
+qa30,Where is the most frustrating place to drive on a holiday?,question answering,https://www.reddit.com/r/AskReddit/
+qa31,What’s the secret to a long lasting relationship?,question answering,https://www.reddit.com/r/AskReddit/
+qa32,What songs give you the biggest feeling of nostalgia?,question answering,https://www.reddit.com/r/AskReddit/
+qa33,Whats some good life advice for someone just entering their 40s?,question answering,https://www.reddit.com/r/AskReddit/
+qa34,What is your favorite non alcoholic drink?,question answering,https://www.reddit.com/r/AskReddit/
+qa35,What is comfort food?,question answering,https://www.reddit.com/r/AskReddit/
+qa36,What’s the best name for a lazy dog?,question answering,https://www.reddit.com/r/AskReddit/
+qa37,What is something a child can do but an adult can't?,question answering,https://www.reddit.com/r/AskReddit/
+qa38,What will you do if we are facing an alien invasion?,question answering,https://www.reddit.com/r/AskReddit/
+qa39,What are people far too judgy about?,question answering,https://www.reddit.com/r/AskReddit/
+qa40,What is something so simple that people regularly over-complicate?,question answering,https://www.reddit.com/r/AskReddit/
+qa41,How do people who live in RVs make money/work?,question answering,https://www.reddit.com/r/AskReddit/
+qa42,What's a giant green flag in a potential partner?,question answering,https://www.reddit.com/r/AskReddit/
+qa43,"What is better, purple or green grapes?",question answering,https://www.reddit.com/r/AskReddit/
+qa44,What foods make you wish you just hadn’t eaten?,question answering,https://www.reddit.com/r/AskReddit/
+qa45,What do you think will be the thing that causes a societal collapse?,question answering,https://www.reddit.com/r/AskReddit/
+qa46,What’s something that makes you feel extremely depressed?,question answering,https://www.reddit.com/r/AskReddit/
+qa47,What are some petty reasons to judge people for?,question answering,https://www.reddit.com/r/AskReddit/
+qa48,What’s a good name for a Trumpet Section?,question answering,https://www.reddit.com/r/AskReddit/
+qa49,Which movie has the best soundtrack?,question answering,https://www.reddit.com/r/AskReddit/
+qa50,What makes you feel poor?,question answering,https://www.reddit.com/r/AskReddit/
+qa51,What's becomes harder to do the more famous you are?,question answering,https://www.reddit.com/r/AskReddit/
+qa52,"You were just given 100 grand, what are you buying?",question answering,https://www.reddit.com/r/AskReddit/
+qa53,What's the best place to take a girl out to as a teen?,question answering,https://www.reddit.com/r/AskReddit/
+qa54,"Do you think that it is possible to have multiple ""best friends""? Why, why not?",question answering,https://www.reddit.com/r/AskReddit/
+qa55,What are 5 red flags in a relationship?,question answering,https://www.reddit.com/r/AskReddit/
+qa56,What is too cheap?,question answering,https://www.reddit.com/r/AskReddit/
+qa57,"If you could delete any one subreddit, what would it be?",question answering,https://www.reddit.com/r/AskReddit/
+qa58,What's one drink you can enjoy with any meal?,question answering,https://www.reddit.com/r/AskReddit/
+qa59,"What are some things that are safe, but people are convinced are dangerous?",question answering,https://www.reddit.com/r/AskReddit/
+qa60,What sucked as a child but is awesome as an adult?,question answering,https://www.reddit.com/r/AskReddit/
+qa61,What do you usually do when you cannot decide between two things?,question answering,https://www.reddit.com/r/AskReddit/
+qa62,"If you could bring only 1 person back to life, who would it be?",question answering,https://www.reddit.com/r/AskReddit/
+qa63,Whats the top three reasons young men are depressed?,question answering,https://www.reddit.com/r/AskReddit/
+qa64,What’s your go to order at a Chinese restaurant?,question answering,https://www.reddit.com/r/AskReddit/
+qa65,How do you ask a woman out on a date without pressuring her or making future interactions awkward?,question answering,https://www.reddit.com/r/AskReddit/
+qa66,What song would you show to a visiting alien civilization?,question answering,https://www.reddit.com/r/AskReddit/
+qa67,What’s something you should never tell your parents?,question answering,https://www.reddit.com/r/AskReddit/
+qa68,How do you deal with someone who just won't listen?,question answering,https://www.reddit.com/r/AskReddit/
+qa69,What's universally loved by everyone?,question answering,https://www.reddit.com/r/AskReddit/
+qa70,Whats the most universal birthday gift you can give someone?,question answering,https://www.reddit.com/r/AskReddit/
+qa71,If Earth had a capital city which one would it be and why?,question answering,https://www.reddit.com/r/AskReddit/
+qa72,What is the first thing you pay attention to when you meet someone?,question answering,https://www.reddit.com/r/AskReddit/
+qa73,What is a subculture that most don't know about?,question answering,https://www.reddit.com/r/AskReddit/
+qa74,What should be a law but isn’t?,question answering,https://www.reddit.com/r/AskReddit/
+qa75,What do you think of the opinion that we don’t have free will?,question answering,https://www.reddit.com/r/AskReddit/
+qa76,What sucks as a child and an adult?,question answering,https://www.reddit.com/r/AskReddit/
+qa77,What's the most bingeworthy show?,question answering,https://www.reddit.com/r/AskReddit/
+qa78,What do you think is the most common sign of manipulation that people often don't realise?,question answering,https://www.reddit.com/r/AskReddit/
+qa79,What’s the worst thing to hear your airplane captain say over the intercom?,question answering,https://www.reddit.com/r/AskReddit/
+qa80,Why has it become a thing in numerous subcultures for people to reflexively remind others to stay hydrated?,question answering,https://www.reddit.com/r/AskReddit/
+qa81,whats a job that does not exist but you think you would be really good at if it were?,question answering,https://www.reddit.com/r/AskReddit/
+qa82,What makes a person irredeemable?,question answering,https://www.reddit.com/r/AskReddit/
+qa83,What are some of your favorite black and white movies or tv shows ?,question answering,https://www.reddit.com/r/AskReddit/
+qa84,What is the most disappointing gift you can ge?,question answering,https://www.reddit.com/r/AskReddit/
+qa85,How would you design the afterlife for everyone if it was just up to you ?,question answering,https://www.reddit.com/r/AskReddit/
+qa86,How do you cope with the grief of a loved one?,question answering,https://www.reddit.com/r/AskReddit/
+qa87,"You can revive one person for 24 hours, who would it be?",question answering,https://www.reddit.com/r/AskReddit/
+qa88,What's is one life hack/tip that can be a game changer ?,question answering,https://www.reddit.com/r/AskReddit/
+qa89,How to become less addictive to your phone?,question answering,https://www.reddit.com/r/AskReddit/
+qa90,What is your favorite joke?,question answering,https://www.reddit.com/r/AskReddit/
+qa91,"What thing do people make fun of others for now that makes you think, ""Mankind needs to go.""?",question answering,https://www.reddit.com/r/AskReddit/
+qa92,What is your favorite Beastie Boys lyric?,question answering,https://www.reddit.com/r/AskReddit/
+qa93,What's a skill/habit that people neglect to develop when younger but helps greatly as you grow older?,question answering,https://www.reddit.com/r/AskReddit/
+qa94,What is a clear sign that a man has been abused?,question answering,https://www.reddit.com/r/AskReddit/
+qa95,When is a man right/justified in his bitterness towards his mother?,question answering,https://www.reddit.com/r/AskReddit/
+qa96,What is your favorite non-drug way to get drowsy for bed?,question answering,https://www.reddit.com/r/AskReddit/
+qa97,What's better today than 10 years ago?,question answering,https://www.reddit.com/r/AskReddit/
+qa98,How likely is nuclear war?,question answering,https://www.reddit.com/r/AskReddit/
+qa99,Whats the easiest way to loose weight?,question answering,https://www.reddit.com/r/AskReddit/
+qa100,how to make friends as adults?,question answering,https://www.reddit.com/r/AskReddit/
