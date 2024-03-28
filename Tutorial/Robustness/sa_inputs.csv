@@ -1,0 +1,6 @@
+inputID,input,task,source
+sa1,"""so happy that salman won. btw the 14sec clip is truely a teaser""",sentiment analysis,https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+sa2,"""thank you so much, looking at these pics makes me want to have one more""",sentiment analysis,https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+sa3,"""Just grabbed some bagels from Panera for everyone at wk. It's Brittany's last day""",sentiment analysis,https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+sa4,"""Hoping for a better day today. Yesterday was fine until I passed out at my desk, fell off chair, and carpet burned my forehead.""",sentiment analysis,https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
+sa5,"""Hoping I at least have fun 2nite. Today was 1 horrible way 2 start off a birthday""",sentiment analysis,https://huggingface.co/datasets/carblacac/twitter-sentiment-analysis
